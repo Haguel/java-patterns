@@ -1,4 +1,4 @@
-package dev.haguel.patterns.factory;
+package dev.haguel.patterns.factory.pattern;
 
 public interface Document {
     void open();

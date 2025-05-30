@@ -1,4 +1,4 @@
-package dev.haguel.patterns.factory;
+package dev.haguel.patterns.factory.pattern;
 
 public class PdfProcessor extends DocumentProcessor {
     @Override

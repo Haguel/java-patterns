@@ -1,5 +1,6 @@
 package dev.haguel.patterns.singleton;
 
+import dev.haguel.patterns.singleton.pattern.Logger;
 import dev.haguel.patterns.util.Generator;
 
 import java.util.stream.Stream;

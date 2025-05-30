@@ -1,5 +1,9 @@
 package dev.haguel.patterns.factory;
 
+import dev.haguel.patterns.factory.pattern.DocumentProcessor;
+import dev.haguel.patterns.factory.pattern.PdfProcessor;
+import dev.haguel.patterns.factory.pattern.WordProcessor;
+
 public class Main {
     private static DocumentProcessor getDocumentProcessorByType(String type) {
         if(type.equals("word")) {

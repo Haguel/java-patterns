@@ -1,4 +1,4 @@
-package dev.haguel.patterns.factory;
+package dev.haguel.patterns.factory.pattern;
 
 public class WordDocument implements Document {
     @Override

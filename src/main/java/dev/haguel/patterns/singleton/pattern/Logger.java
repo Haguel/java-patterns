@@ -1,4 +1,4 @@
-package dev.haguel.patterns.singleton;
+package dev.haguel.patterns.singleton.pattern;
 
 import java.util.ArrayList;
 import java.util.List;
